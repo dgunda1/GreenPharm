@@ -2,9 +2,10 @@
 //echo "footer";
 ?>
 <!--Footer-->
+<div class="panel-footer footer">
 <footer class="page-footer font-small blue-grey lighten-5 pt-0">
 
-<div style="background-color: #21d192;">
+<div style="background-color: #28893e;">
 <div class="container">
 <!--Grid row-->
 <div class="row py-4 d-flex align-items-center">
@@ -135,4 +136,5 @@ amet, consectetur adipisicing elit.</p>
 <!--/.Copyright -->
 
 </footer>
+</div>
 <!--/.Footer-->

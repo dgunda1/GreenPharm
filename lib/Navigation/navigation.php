@@ -1,9 +1,9 @@
 <?php 
 //echo "Navigatoin";
 ?>
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-inverse" style="background-color: #28893e">
   <div class="container-fluid">
-    <div class="navbar-header">
+    <div class="navbar-header" >
       <a class="navbar-brand" href="#">WebSiteName</a>
     </div>
     <ul class="nav navbar-nav">

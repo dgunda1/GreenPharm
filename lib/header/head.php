@@ -12,6 +12,13 @@
 <noscript>Your browser does not support JavaScript!</noscript>
 <link rel="stylesheet" type="text/css"
 	href="..\lib\css\bootstrap.min.css">
+<style type="text/css">
+.footer {
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+}
+</style>
 <script src="..\lib\js\jquery.min.js"></script>
 <script src="..\lib\js\bootstrap.min.js"></script>
 </head>
