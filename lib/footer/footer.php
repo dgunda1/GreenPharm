@@ -53,12 +53,11 @@
 				<!--First column-->
 				<div class="col-md-3 col-lg-4 col-xl-3 mb-4 dark-grey-text">
 					<h6 class="text-uppercase font-weight-bold">
-						<strong>Company name</strong>
+						<strong>The Green Pharm</strong>
 					</h6>
 					<hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto"
 						style="width: 60px;">
-					<p>Here you can use rows and columns here to organize your footer
-						content. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+					<p>We are here to help you find the perfect medication for you that is centered all around your personal needs.</p>
 				</div>
 				<!--/.First column-->
 
@@ -70,16 +69,16 @@
 					<hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto"
 						style="width: 60px;">
 					<p>
-						<a href="#!" class="dark-grey-text">MDBootstrap</a>
+						<a href="#!" class="dark-grey-text">The Green Pharm</a>
 					</p>
 					<p>
-						<a href="#!" class="dark-grey-text">MDWordPress</a>
+						<a href="#!" class="dark-grey-text">The Green Pharm</a>
 					</p>
 					<p>
-						<a href="#!" class="dark-grey-text">BrandFlow</a>
+						<a href="#!" class="dark-grey-text">The Green Pharm</a>
 					</p>
 					<p>
-						<a href="#!" class="dark-grey-text">Bootstrap Angular</a>
+						<a href="#!" class="dark-grey-text">The Green Pharm</a>
 					</p>
 				</div>
 				<!--/.Second column-->
