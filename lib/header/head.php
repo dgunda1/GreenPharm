@@ -12,6 +12,8 @@
 <noscript>Your browser does not support JavaScript!</noscript>
 <link rel="stylesheet" type="text/css"
 	href="..\lib\css\bootstrap.min.css">
+<link rel="stylesheet" type="text/css"
+	href="..\lib\css\font-awesome.min.css">
 <style type="text/css">
 .footer {
 	position: absolute;
