@@ -4,7 +4,7 @@
 <nav class="navbar navbar-inverse" style="background-color: #28893e">
 	<div class="container-fluid">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#"><font color="white"><i
+			<a class="navbar-brand" href="http://localhost"><font color="white"><i
 					class="fa fa-home" aria-hidden="true"></i> The Green Pharm </font></a>
 		</div>
 		<ul class="nav navbar-nav">
@@ -12,15 +12,15 @@
 				data-toggle="dropdown" href="#" style="background-color: #28893e"><i
 					class="fa fa-bars" aria-hidden="true"></i><span class="caret"></span></a>
 				<ul class="dropdown-menu" style="background-color: #28893e">
-					<li><a href="#" style="color: #f7f7f7"><i class="fa fa-heartbeat"
+					<li><a href="UI/PersonalPotProfile" style="color: #f7f7f7"><i class="fa fa-heartbeat"
 							aria-hidden="true"></i> Personal Pot Profile</a></li>
-					<li><a href="#" style="color: #f7f7f7"><i class="fa fa-search"
+					<li><a href="UI/Cannabis" style="color: #f7f7f7"><i class="fa fa-search"
 							aria-hidden="true"></i> What is Cannabis?</a></li>
-					<li><a href="#" style="color: #f7f7f7"><i class="fa fa-eyedropper"
+					<li><a href="UI/Administration" style="color: #f7f7f7"><i class="fa fa-eyedropper"
 							aria-hidden="true"></i> Administration</a></li>
-					<li><a href="#" style="color: #f7f7f7"><i class="fa fa-map-o"
+					<li><a href="UI/DispensaryLocation" style="color: #f7f7f7"><i class="fa fa-map-o"
 							aria-hidden="true"></i> Dispensary Locations</a></li>
-					<li><a href="#" style="color: #f7f7f7"><i class="fa fa-user-md"></i>
+					<li><a href="UI/ContactDoctor" style="color: #f7f7f7"><i class="fa fa-user-md"></i>
 							Contact a Medical Cannabis Doctor</a></li>
 				</ul>
 			</li>
