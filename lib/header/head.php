@@ -20,6 +20,17 @@
 	bottom: 0px;
 	width: 100%;
 }
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{
+background-color: black;
+}
+.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover{
+background-color: black;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover{
+background-color: black;
+}
+
 </style>
 <script src="..\lib\js\jquery.min.js"></script>
 <script src="..\lib\js\bootstrap.min.js"></script>
