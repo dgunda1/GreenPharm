@@ -12,15 +12,15 @@
 				data-toggle="dropdown" href="#" style="background-color: #28893e"><i
 					class="fa fa-bars" aria-hidden="true"></i><span class="caret"></span></a>
 				<ul class="dropdown-menu" style="background-color: #28893e">
-					<li><a href="UI/PersonalPotProfile" style="color: #f7f7f7"><i class="fa fa-heartbeat"
+					<li><a href="http://<?php echo $host?>/UI/PersonalPotProfile" style="color: #f7f7f7"><i class="fa fa-heartbeat"
 							aria-hidden="true"></i> Personal Pot Profile</a></li>
-					<li><a href="UI/Cannabis" style="color: #f7f7f7"><i class="fa fa-search"
+					<li><a href="http://<?php echo $host?>/UI/Cannabis" style="color: #f7f7f7"><i class="fa fa-search"
 							aria-hidden="true"></i> What is Cannabis?</a></li>
-					<li><a href="UI/Administration" style="color: #f7f7f7"><i class="fa fa-eyedropper"
+					<li><a href="http://<?php echo $host?>/UI/Administration" style="color: #f7f7f7"><i class="fa fa-eyedropper"
 							aria-hidden="true"></i> Administration</a></li>
-					<li><a href="UI/DispensaryLocation" style="color: #f7f7f7"><i class="fa fa-map-o"
+					<li><a href="http://<?php echo $host?>/UI/DispensaryLocation" style="color: #f7f7f7"><i class="fa fa-map-o"
 							aria-hidden="true"></i> Dispensary Locations</a></li>
-					<li><a href="UI/ContactDoctor" style="color: #f7f7f7"><i class="fa fa-user-md"></i>
+					<li><a href="http://<?php echo $host?>/UI/ContactDoctor" style="color: #f7f7f7"><i class="fa fa-user-md"></i>
 							Contact a Medical Cannabis Doctor</a></li>
 				</ul>
 			</li>
