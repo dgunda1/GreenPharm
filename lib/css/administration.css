@@ -1,0 +1,21 @@
+ #adminbck {
+ height: 100%;
+ width: 100%;
+ background: green; /* For browsers that do not support gradients */
+ background: linear-gradient(to right, green, lightgreen,green); /* Standard syntax (must be last) */
+ border-radius: 4px;
+}
+
+h1, h1 {
+    font-size: 70px;
+}
+
+#admindata td, #admindata th {
+    padding: 20px; 
+    
+}
+table{	
+	margin: 0 auto;	
+	padding: 10px;
+	
+}
