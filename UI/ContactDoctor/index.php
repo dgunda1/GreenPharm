@@ -34,8 +34,7 @@ include $root . '/lib/Navigation/navigation.php';
 			<td><img alt="The Green Pharm" src="/img/call.png" /></td>
 		</tr>
 		<tr>
-			<td><span style="color: white">Call a doctor!
-! </span></td>
+			<td><span style="color: white">Call a doctor! ! </span></td>
 		</tr>
 	</table>
 
